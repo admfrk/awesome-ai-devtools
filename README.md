@@ -305,6 +305,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [Wopee.io](https://wopee.io) — Autonomous visual regression testing platform with AI-powered test agents. Integrates with Playwright, Cypress, and Robot Framework.
 - [Test Gru](https://gru.ai/home#test-gru) — Provides enterprise-level unit test automation services.
 - [TraceRoot AI](https://traceroot.ai/) — AI-native observability tool that uses AI agents to automatically fix production bugs.
+- [Rootly](https://rootly.com/) — Incident management platform with an AI SRE that investigates alerts and incidents, plus an MCP server for using Rootly from AI coding tools.
 - [Fine](https://fine.dev/?ref=awesome) — AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
